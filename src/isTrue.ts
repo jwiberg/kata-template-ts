@@ -3,4 +3,3 @@ const isTrue = (possibleTrue: boolean): boolean => {
 }
 
 export default isTrue
-
