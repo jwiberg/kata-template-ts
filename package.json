@@ -6,8 +6,8 @@
   "scripts": {
     "lint": "ts-standard",
     "lint-fix": "ts-standard --fix",
-    "test": "jest --no-cache",
-    "test-watch": "jest --no-cache --watch"
+    "test": "jest --no-cache --coverage",
+    "test-watch": "jest --no-cache --watch --coverage"
   },
   "repository": {
     "type": "git",
