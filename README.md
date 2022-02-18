@@ -30,5 +30,7 @@ Template for code katas written in JavaScript.
   * run tests in "watch" mode and measure coverage
 ## JEST test runner documentation
 * https://jestjs.io/
+## TypeScript documentation
+* https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
 
 
