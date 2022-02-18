@@ -5,6 +5,8 @@ Template for code katas written in JavaScript.
 
 * Install https://nodejs.org/en/ (LTS/Current if possible)
 * run "npx degit https://github.com/jwiberg/kata-template-ts.git" 
+  * If npx is not inastalled install it
+    * "npm install -g npx"
   * If that doesn't work clone or fork this repository
 * Run "npm install"
 * Start coding (check source code for examples and commands below)
