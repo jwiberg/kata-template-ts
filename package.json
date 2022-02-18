@@ -1,0 +1,31 @@
+{
+  "name": "kata-template-ts",
+  "version": "1.0.0",
+  "description": "Template for hacking some TDD katas with TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --no-cache",
+    "test-watch": "jest --no-cache --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwiberg/kata-template-ts.git"
+  },
+  "keywords": [
+    "kata",
+    "tdd",
+    "typescript",
+    "hackaton"
+  ],
+  "author": "Juha Wiberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwiberg/kata-template-ts/issues"
+  },
+  "homepage": "https://github.com/jwiberg/kata-template-ts#readme",
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "ts-jest": "^27.1.3",
+    "typescript": "^4.5.5"
+  }
+}
